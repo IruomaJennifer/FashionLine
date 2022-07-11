@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\bin\Debug\net6.0\FashionLine.Domain.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\bin\Debug\net6.0\FashionLine.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\bin\Debug\net6.0\FashionLine.Domain.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\refint\FashionLine.Domain.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\ref\FashionLine.Domain.dll
